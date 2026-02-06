@@ -15,7 +15,8 @@
 html{
     /*cursor type*/
     /*cursor: none;*/
-    background-image: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));
+    background: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));
+    /*background-image: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));*/
     background-attachment: fixed;
 }
 img{ /*security: image protection*/
