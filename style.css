@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Questrial', sans-serif;
+    font-family: sans-serif;
 }
 html{
     /*cursor type*/
@@ -25,8 +25,8 @@ body::before {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 120vw;
+  height: 120vh;
   background: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));
   z-index: -1;
 }
