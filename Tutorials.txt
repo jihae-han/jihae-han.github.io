@@ -1,0 +1,16 @@
+%----- Tutorials ----% 
+Current tutorial: https://www.youtube.com/watch?v=oYRda7UtuhA&list=PLjwm_8O3suyP5kGKmwS_DM0Hs1j7fshi5
+
+w3schools.com
+Php
+Bootstrap (for dynamic screen size adjustment)
+%
+%----- FileZilla Login ----%
+Host: joonkihan.mycafe24.com
+Username: joonkihan
+Password: Han1691@
+Port: 
+
+Grid wrapping: https://www.youtube.com/watch?v=3T0gjtXRNC0
+parallax scrolling: https://www.youtube.com/watch?v=mxHoPYFsTuk 
+isometric design: https://www.youtube.com/watch?v=DLPFZvw05to 
