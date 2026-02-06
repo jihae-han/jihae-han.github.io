@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Questrial', sans-serif;
 }
 html{
     /*cursor type*/
-    cursor: none;
+    /*cursor: none;*/
 }
 img{ /*security: image protection*/
     -webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none
