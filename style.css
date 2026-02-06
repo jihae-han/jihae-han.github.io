@@ -93,8 +93,8 @@ header .menu p{
 }
 .text-box{
     top:10%; 
-    left: 50%; 
-    transform: translate(-50%, 0%);    
+    left: 50%;
+    transform: translate(-50%, 0%);
     color: rgb(0, 0, 0);
     position: absolute;
     text-align: left;
@@ -116,7 +116,7 @@ font-family: sans-serif;
 }
 .text-box h3{ /*gradient text*/
     font-size: 16px;
-    font-weight: 450;
+    font-weight: 300;
     background: linear-gradient(to right, #ff54ff, #5b4fff, #1613cf);
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -124,19 +124,19 @@ font-family: sans-serif;
 }
 .text-box p{
     margin: 1px 5px 0px;
-    font-weight: 450;
+    font-weight: 300;
     font-size: 16px;
     font-family: sans-serif;
 }
 .text-box ul li{
     list-style-type: circle;
-    font-weight: 450;
+    font-weight: 300;
     font-size: 16px;
     font-family: sans-serif;
     margin: 0px 22px 0px;
 }
 .text-box ol li{
-    font-weight: 450;
+    font-weight: 300;
     font-size: 16px;
     font-family: sans-serif;
     margin: 10px 22px 0px;    
@@ -144,7 +144,7 @@ font-family: sans-serif;
 }
 .text-box a{
     color: black;
-    font-weight: 450;
+    font-weight: 300;
     font-size: 16px;
     font-family: sans-serif;
 }
