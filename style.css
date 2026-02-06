@@ -15,6 +15,8 @@
 html{
     /*cursor type*/
     /*cursor: none;*/
+    background-image: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));
+    background-attachment: fixed;
 }
 img{ /*security: image protection*/
     -webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none
@@ -36,8 +38,6 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient(rgba(249,244,227,1.0), rgba(223, 241, 253, 1.0));
-  background-size: cover;
   z-index: -1;
 }
 .circle { /*cursor animation*/
