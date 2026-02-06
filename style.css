@@ -213,7 +213,7 @@ nav img{ /*logo*/
   left: 0;
   z-index: 9999999999999999;  
 }
-#box{
+/*#box{
     fill: black;
 }
 @media(max-width:760px){
