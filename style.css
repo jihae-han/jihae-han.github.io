@@ -111,8 +111,8 @@ header .menu p{
     font-size: 16px;
     font-weight: 700;
     margin: 20px 5px 0px;
-    /*font-family:'Segoe UI';*/
     color: black;
+font-family: sans-serif;
 }
 .text-box h3{ /*gradient text*/
     font-size: 16px;
@@ -120,25 +120,25 @@ header .menu p{
     background: linear-gradient(to right, #ff54ff, #5b4fff, #1613cf);
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: 'Segoe UI';
+    font-family: sans-serif;
 }
 .text-box p{
     margin: 1px 5px 0px;
     font-weight: 450;
     font-size: 16px;
-    font-family:'Segoe UI';
+    font-family: sans-serif;
 }
 .text-box ul li{
     list-style-type: circle;
     font-weight: 450;
     font-size: 16px;
-    font-family:'Segoe UI';
+    font-family: sans-serif;
     margin: 0px 22px 0px;
 }
 .text-box ol li{
     font-weight: 450;
     font-size: 16px;
-    font-family:'Segoe UI';
+    font-family: sans-serif;
     margin: 10px 22px 0px;    
     
 }
@@ -146,7 +146,7 @@ header .menu p{
     color: black;
     font-weight: 450;
     font-size: 16px;
-    font-family:'Segoe UI';
+    font-family: sans-serif;
 }
 nav{
     padding: 0.5% 1.5%;
